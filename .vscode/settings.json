@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.css": "tailwindcss",
+        "*.tcc": "cpp"
+    }
+}
